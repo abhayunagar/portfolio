@@ -1,0 +1,81 @@
+{
+    "main": {
+        "name": "Abhay Unagar",
+        "description": "I am Frontend and Business Developer. To obtain a creative and challenging position in an organization that gives me an opportunity for self improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and logical skills.",
+        "image": "profilepic.jpg",
+        "bio": "I am currently studying an undergraduate course of computer engineering at V.V.P. engineering college. I have good technical, analytical and management skills and I am also good in working with team.",
+        "contactmessage": "Want to get in touch with me ?",
+        "email": "abhayunagar1@gmail.com",
+        "phone": "+91 8347860089",
+        "address": {
+            "city": "Rajkot",
+            "state": "Gujarat",
+            "zip": "360005"
+        },
+        "website": "https://portfolio-new-eight-kappa.vercel.app/",
+        "resumedownload": "abhayunagarresume.pdf",
+        "social": [{
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/abhay-unagar-4417251a1",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/sahilmathukiya",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "V.V.P. Engieering College",
+            "degree": "Computer Engineering",
+            "graduated": "2019-2023",
+            "description": "CGPA : 8.48"
+        }],
+        "work": [{
+            "company": "VNurture Technologies",
+            "title": "Intern",
+            "years": "June 2022 - July 2022",
+            "description": "Implementing new products to the existing solutions."
+        }],
+        "skills": [{
+                "name": "HTML",
+                "level": "95%"
+            },
+            {
+                "name": "CSS",
+                "level": "65%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "55%"
+            },
+            {
+                "name": "React",
+                "level": "65%"
+            },
+            {
+                "name": "Marketing",
+                "level": "85%"
+            },
+            {
+                "name": "SQL",
+                "level": "65%"
+            },
+            {
+                "name": "Git",
+                "level": "75%"
+            },
+            {
+                "name": "UX / UI",
+                "level": "65%"
+            },
+            {
+                "name": "Google / Facebook / Instagram / ... Ads",
+                "level": "80%"
+            }
+        ]
+    }
+}
